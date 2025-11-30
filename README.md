@@ -145,3 +145,8 @@ Install dependencies:
 ```sh
 npm install
 npx vitest
+```
+
+## 🤝 Contributions
+
+Suggestions and improvements are welcome, but this repo mainly reflects my personal learning and testing exploration.
