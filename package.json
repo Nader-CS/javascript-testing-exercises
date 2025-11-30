@@ -1,0 +1,14 @@
+{
+  "name": "javascript-testing-exercises",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "A collection of JavaScript testing exercises using Vitest to practice and improve testing skills",
+  "scripts": {
+    "test": "vitest",
+    "test:watch": "vitest --watch",
+    "coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.14"
+  }
+}
