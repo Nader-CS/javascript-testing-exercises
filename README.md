@@ -1,6 +1,7 @@
 # JavaScript Testing Exercises (Vitest)
 
 This repository contains **50 JavaScript testing exercises that I personally created and implemented** to practice, improve, and demonstrate my real-world experience with **Vitest**.  
+
 Each exercise focuses on a different testing concept—starting from basic tests and progressing into advanced mocking, async behavior, timers, spying, and coverage.
 
 These exercises serve as a practical portfolio of my testing skills.
